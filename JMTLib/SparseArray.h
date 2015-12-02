@@ -9,6 +9,7 @@
 #include <vector>
 #include <stdexcept>
 #include <iostream>
+#include <string.h>
 #include "JMTLib.h"
 
 using namespace std;

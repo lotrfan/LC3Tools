@@ -9,6 +9,7 @@
 #include <string>
 #include <vector>
 #include <map>
+#include <stdlib.h>
 #include "JMTSys.h"
 #include "SynchLib.h"
 

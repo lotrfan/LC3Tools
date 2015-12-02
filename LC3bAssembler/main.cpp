@@ -5,7 +5,7 @@
 #pragma warning (disable:4786)
 #include <iostream>
 #include <cstdio>
-#include <new.h>
+#include <stdlib.h>
 #include "AsmUI.h"
 
 using namespace std;

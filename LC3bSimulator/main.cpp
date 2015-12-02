@@ -6,7 +6,6 @@
 #include <iostream>
 #include <cstdio>
 #include <fstream>
-#include <new.h>
 #include "../LC3bAssembler/AsmUI.h"
 #include "SimUI.h"
 

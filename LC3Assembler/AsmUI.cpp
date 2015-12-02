@@ -6,6 +6,7 @@
 #include <fstream>
 #include <strstream>
 #include <cstdio>
+#include <string.h>
 #include "../Assembler/Assembler.h"
 #include "../LC3Assembler/LC3ISA.h"
 #include "../AsmConvertLC3/AsmConvertLC3.h"
